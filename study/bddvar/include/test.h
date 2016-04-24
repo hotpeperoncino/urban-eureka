@@ -1,0 +1,3 @@
+#define N_NODES 10000
+#define CACHESIZE 10000
+
