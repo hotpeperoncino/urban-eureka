@@ -1,4 +1,4 @@
 #!/bin/bash
-g++ -g -I include -I /usr/local/include queen.cpp -lbdd -lm -o a.out
+g++ -g -I include -I ../../include queen.cpp -L../../lib -lbdd -lm -o a.out
 
 
